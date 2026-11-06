@@ -2,7 +2,8 @@
 
 Deltapi-teach lessen (NL/EN) om het gesprek met Renske Meijers (relatiebeheerder IBOR / implementatie ecologisch beheer, Dar) voor te bereiden.
 
-**Site:** https://reinderroos.github.io/dar-voorbereiding-renske/
+- **Site:** https://reinderroos.github.io/dar-voorbereiding-renske/
+- **Repo:** https://github.com/ReinderRoos/dar-voorbereiding-renske
 
 | # | Les | Min |
 | - | --- | --- |
@@ -11,4 +12,4 @@ Deltapi-teach lessen (NL/EN) om het gesprek met Renske Meijers (relatiebeheerder
 | 3 | [Frictiepunten](03-frictiepunten.html) | ~8 |
 | 4 | [Gesprek oefenen](04-gesprek-oefenen.html) | ~10 |
 
-Dit is een **sub-repo** (eigen git + GitHub Pages) binnen `klanten/DAR Nijmegen/`. Geen research-bewijsarchief: claims blijven bronvermeld op de pagina’s; veldnotities na het gesprek in een datum-slug hieronder.
+Dit is een **sub-repo** (eigen `.git` + GitHub Pages) binnen `klanten/DAR Nijmegen/`. Geen research-bewijsarchief: claims blijven bronvermeld op de pagina’s; veldnotities na het gesprek in een datum-slug hieronder.
